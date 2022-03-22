@@ -1,5 +1,5 @@
 require "./crolorama"
-crol = Crolor::Crolor.new
+crol = Crolorama::Color.new
 
 puts
 puts "===== #{crol.style("bright")}#{crol.bg("lightwhite_ex")}#{crol.fg("black")}Foreground Colors#{crol.reset_all} ====="

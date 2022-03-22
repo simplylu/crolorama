@@ -20,7 +20,7 @@ Tested only on Linux.
 
 ```crystal
 require "crolorama"
-crol = Crolorama::Crolor.new
+crol = Crolorama::Color.new
 
 puts "This is #{crol.fg("red")}RED#{crol.reset}"
 ```

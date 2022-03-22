@@ -6,7 +6,7 @@ module Crolorama
   class UnknownColor < Exception
   end
 
-  class Crolor
+  class Color
     def initialize
     end
 
