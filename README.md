@@ -52,7 +52,7 @@ This shard is mainly oriented towards the [colorama](https://pypi.org/project/co
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/crolorama/fork>)
+1. Fork it (<https://github.com/js-on/crolorama/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -60,4 +60,4 @@ This shard is mainly oriented towards the [colorama](https://pypi.org/project/co
 
 ## Contributors
 
-- [js-on](https://github.com/your-github-user) - creator and maintainer
+- [js-on](https://github.com/js-on) - creator and maintainer
