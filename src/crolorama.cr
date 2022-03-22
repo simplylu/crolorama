@@ -1,4 +1,4 @@
-module Crolor
+module Crolorama
   VERSION = "0.1.0"
   AUTHOR  = "Jakob Schaffarczyk aka js-on <jakobs@js-on.de>"
   DATE    = "22/03/2022"
