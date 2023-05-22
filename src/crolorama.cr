@@ -1,7 +1,7 @@
 module Crolorama
   VERSION = "0.1.0"
-  AUTHOR  = "Jakob Schaffarczyk aka js-on <jakobs@js-on.de>"
-  DATE    = "22/03/2022"
+  AUTHOR  = "simplylu"
+  DATE    = "22/05/2023"
 
   class UnknownColor < Exception
   end
